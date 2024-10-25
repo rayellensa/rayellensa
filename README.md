@@ -19,6 +19,11 @@ Meu interesse por **dados** cresceu ainda mais quando comecei a ver os resultado
 **insights estratégicos** foi um dos maiores aprendizados da minha jornada. Hoje, aplico essas ferramentas para desenvolver **análises exploratórias**, criar **dashboards interativos**,
 e implementar **KPIs e OKRs** que ajudam empresas a tomar decisões baseadas em dados.
 
+## Meu Diferencial
+O que me diferencia é a capacidade de traduzir o "tecniquês" em uma linguagem clara e envolvente. Utilizo **Storytelling** e **dashboards interativos** para comunicar informações complexas
+de forma acessível e impactante. Ao unir minha paixão por dados com uma abordagem que prioriza o entendimento e a aplicação prática, consigo garantir que stakeholders de diferentes áreas 
+compreendam os insights gerados, o que facilita a tomada de decisões estratégicas.
+
 ## Minhas Principais Habilidades:
 - **Power BI** (Dashboards, DAX)
 - **SQL** (Manipulação e Otimização de Dados)
