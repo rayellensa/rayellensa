@@ -29,7 +29,7 @@ e implementar **KPIs e OKRs** que ajudam empresas a tomar decisões baseadas em 
 - **Modelagem de Dados e ETL**
 
 ## O Que Me Motiva
-Sou movida pelo desejo de **transformar dados em soluções de impacto**, especialmente nas áreas que mais me fascinam: **saúde** e **esportes**. Acredito que, com as ferramentas certas e os dados corretos, é possível criar estratégias que otimizam operações e geram valor para qualquer negócio.
+Sou movida pelo desejo de **transformar dados em soluções de impacto.** Acredito que, com as ferramentas certas e os dados corretos, é possível criar estratégias que otimizam operações e geram valor para qualquer negócio.
 
 Hoje, sigo apaixonada por encontrar maneiras inovadoras de usar dados para melhorar negócios e operações, sempre buscando oportunidades para aplicar o que aprendi tanto no **empreendedorismo** quanto na **análise de dados**.
 
