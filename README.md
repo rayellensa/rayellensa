@@ -1,6 +1,6 @@
 # Bem-vindos! Rayellen Sá aqui! 👋
 
-Sou **Analista de Dados** com uma trajetória única que começou na **Nutrição** e me levou ao mundo de **Business Intelligence** e **Análise de Dados**. 
+Sou **Analista de Dados** com uma trajetória única que começou na **Nutrição** e me levou ao mundo de **Business Intelligence** e **Análise de Dados**.
 Apaixonada por dados, saúde e esportes, encontrei no poder da análise a ferramenta ideal para conectar essas áreas e gerar insights valiosos. 
 Ao longo da minha carreira, desenvolvi habilidades que me permitiram atuar tanto no setor de saúde quanto em negócios, sempre aplicando uma visão analítica e orientada por dados.
 
